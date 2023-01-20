@@ -36,7 +36,7 @@
                   <tr v-for="(date, index) in dateDatabase" :key="index" class="text-center">
                         <td>{{ date.date }}</td>
                         <td>Friday</td>
-                        <td>6:00 PM - SydneyTime</td>
+                        <td>6:00 AM - SydneyTime</td>
                         <td class="text-end">{{ date.status }}</td>
                   </tr>
               </table>
