@@ -18,14 +18,6 @@
       <div class="container">
           <h1>Wipe Schedule Of Year {{ data }}: <br> <span>Posted By iLoBBer <i><Icon name="material-symbols:check-small-rounded" /></i></span></h1>
           <div class="box">
-              <!-- <h3>Wipe & Purge Schedules </h3>
-              <ul class="list">
-                  <li><i><Icon name="material-symbols:check-small-rounded" /></i><span>Purge</span> Starts 2 hours before Wipe Day.</li>
-                  <li><i><Icon name="material-symbols:check-small-rounded" /></i><span>Serve wipe</span> after 7 days Thursday Evening. </li>
-                  <li><i><Icon name="material-symbols:check-small-rounded" /></i><span>Blueprints</span> wipe at First Thursday Of every Month (Force Wipe)</li>
-                  <li><i><Icon name="material-symbols:check-small-rounded" /></i><span>RP Wipe</span> 2 Months Wipe.</li>
-                  <li><i><Icon name="material-symbols:check-small-rounded" /></i><span>XP-Levels</span> Never Wipe.</li>
-              </ul> -->
               <table>
                   <tr>
                       <th>Wipe Day</th>

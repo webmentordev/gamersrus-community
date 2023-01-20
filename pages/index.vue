@@ -1,5 +1,5 @@
 <template>
-    <header>
+    <header class="index-head">
         <div class="header-container">
             <div class="box">
                 <h1>Explore. <br> Build. <br> Survive.</h1>
