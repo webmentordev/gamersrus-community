@@ -6,7 +6,8 @@
                 <h1>GamersRUs Rules</h1>
                 <p>Breaking These Rules is Permanent Ban. No Unban Requests. <br>They are not hard to follow.</p>
                 <ul>
-                    <NuxtLink to="steam://connect/45.88.231.43:28015">Connect</NuxtLink>
+                    <NuxtLink to="steam://connect/45.88.231.43:28015">50X Connect</NuxtLink>
+                    <NuxtLink to="steam://connect/109.205.61.188:28015">10X Connect</NuxtLink>
                     <NuxtLink to="https://discord.gg/hwqjNwN2cp" target="_blank">Discord</NuxtLink>
                 </ul>
             </div>

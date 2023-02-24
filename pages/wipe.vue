@@ -6,7 +6,8 @@
                 <h1> {{ data }} Wipe Schedule</h1>
                 <p>Here is Complete Year BP and RP Wipe Schedule.<br> Monthly Forced Wipe Schedule. Monthly Blueprint Wipe <br>Timing is according to Sydney Time.</p>
                 <ul>
-                    <NuxtLink to="steam://connect/45.88.231.43:28015">Connect</NuxtLink>
+                    <NuxtLink to="steam://connect/45.88.231.43:28015">50X Connect</NuxtLink>
+                    <NuxtLink to="steam://connect/109.205.61.188:28015">10X Connect</NuxtLink>
                     <NuxtLink to="https://discord.gg/hwqjNwN2cp" target="_blank">Discord</NuxtLink>
                 </ul>
             </div>
