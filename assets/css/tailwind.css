@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 body{
-    background-color: #1b1b1b;
+    @apply bg-dark;
 }
 
 body:after {
@@ -62,8 +62,11 @@ h3 {
     }
 }
 
+.router-link-active, .router-link-exact-active{
+    @apply text-white;
+}
+
 .index-head{
-    height: 101vh;
     animation: animation 10s ease infinite;
     background-position: center;
     background-size: cover;
@@ -106,8 +109,6 @@ h3 {
 }
 
 .box h1 {
-    font-size: 12rem;
-    line-height: 12rem;
     word-spacing: 100vw;
     color: #e4dad1;
     font-weight: 500;
