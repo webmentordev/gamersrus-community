@@ -7,7 +7,7 @@
                 <div class="grid grid-cols-2 gap-12 text-white w-fit">
                     <div class="box bg-black p-6 rounded-lg relative">
                         <span class="absolute top-2 rounded-sm font-semibold left-2 p-2 text-sm px-3 bg-[#cd412b]">Owner</span>
-                        <img class="mb-5 rounded-md" src="https://avatars.akamai.steamstatic.com/3b63c7ca16dee760c7194aafce9e9a5ecea754c8_full.jpg">
+                        <img class="mb-5 rounded-md" width="184" height="184" src="https://cdn.discordapp.com/attachments/566944154840727553/1076101105580261376/Test1.png">
                         <div class="info">
                             <h2 class="text-center text-xl mb-3">MickGaming20</h2>
                             <div class="flex text-md items-center justify-center">

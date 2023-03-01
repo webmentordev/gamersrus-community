@@ -6,7 +6,7 @@ export default defineNuxtConfig({
     ],
     app: {
         head: {
-            title: "Gamer R Us — Official Website",
+            title: "GamersRUs — Official Website",
             meta: [
                 { name: "description", content: "Welcome to GamersRUs official website. Our server provides the best Rust & perfect modded & vanilla gameplay. We run multiple balanced plugins to improve the quality of the game"}
             ],
